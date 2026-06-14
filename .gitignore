@@ -1,0 +1,10 @@
+# Keep API keys hidden
+.env
+
+# Do not upload the raw data files
+*.jsonl
+*.json
+
+# Ignore local python virtual environments or system files
+__pycache__/
+.ipynb_checkpoints/
