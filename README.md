@@ -13,7 +13,7 @@ Our data pipeline moves linearly across four core architectural stages:
 3. **Cloud Data Warehouse:** Streaming data directly into Google BigQuery to run parallelized, high-volume self-joins and algorithmic similarity calculations.
 4. **BI/Semantic Layer:** Visualizing data inside Power BI Desktop via an optimized local cache memory model using disconnected table filtering structures.
 
-*(Note to User: Once you upload your diagram to GitHub, you can place your picture right here!)*
+![ChimeraQuest System Architecture](ChimeraQuest%20Architecture.png)
 
 ---
 
